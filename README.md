@@ -2,6 +2,7 @@
 
 PuTTY 대신 쓰는 간단한 SSH 클라이언트입니다. 탭으로 여러 서버(콘솔 1, 2, 3...)에
 동시 접속할 수 있고, 서버 정보는 프로그램 안에 저장해두고 다음에 바로 골라 접속할 수 있습니다.
+
 <img width="495" height="313" alt="image" src="https://github.com/user-attachments/assets/b61d287a-3258-4e94-a728-816f260c4cc0" />
 <img width="413" height="269" alt="image" src="https://github.com/user-attachments/assets/5824e06a-4310-4fe8-b8df-e577a7d03406" />
 
