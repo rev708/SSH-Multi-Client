@@ -12,7 +12,7 @@ PuTTY 대신 쓰는 간단한 SSH 클라이언트입니다. 탭으로 여러 서
 
 빌드 없이 바로 쓰고 싶다면 최신 릴리즈에서 실행 파일을 받으세요 (Windows 10/11, 64비트):
 
-**[⬇ SshTabClient.exe 다운로드](https://github.com/rev708/SSH-Multi-Client/releases/latest/download/SshTabClient.exe)**
+**[⬇ SSH Multi Client.exe 다운로드](https://github.com/rev708/SSH-Multi-Client/releases/latest/download/SshTabClient.exe)**
 
 ## 주요 기능
 
