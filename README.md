@@ -6,6 +6,8 @@ PuTTY 대신 쓰는 간단한 SSH 클라이언트입니다. 탭으로 여러 서
 
 <img width="495" height="313" alt="image" src="https://github.com/user-attachments/assets/b61d287a-3258-4e94-a728-816f260c4cc0" />
 <img width="413" height="269" alt="image" src="https://github.com/user-attachments/assets/5824e06a-4310-4fe8-b8df-e577a7d03406" />
+
+
 ## 다운로드
 
 빌드 없이 바로 쓰고 싶다면 최신 릴리즈에서 실행 파일을 받으세요 (Windows 10/11, 64비트):
