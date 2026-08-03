@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bno6iBRVMpc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SH_DESKTOP\\Desktop\\SshTabClient\\SshTabClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SH_DESKTOP\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "C:\\Users\\SH_DESKTOP\\.nuget\\packages\\ssh.net\\2024.2.0\\ssh.net.2024.2.0.nupkg.sha512",
+    "C:\\Users\\SH_DESKTOP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\SH_DESKTOP\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\SH_DESKTOP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\SH_DESKTOP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.24\\microsoft.netcore.app.host.win-x64.8.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
